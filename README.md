@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=Shank-devBytes001&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/Shank-devBytes001.svg?style=for-the-badge&logo=appveyor">
   </div>
-<h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | Data Science | NLP | Explorer </h3>
+<h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | git | Devops | Explorer </h3>
 
 <div>
 
@@ -20,56 +20,18 @@
       <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
 <img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
 <img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
-<img src="https://img.shields.io/badge/Language-English%2C%20French-blue" />
-      <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫" — Ahlem </i></h4>
+<img src="https://img.shields.io/badge/Language-English%2C%20FHindi-blue" />
+      <h4><i> "Can build a new startup in just 72 hrs using to Ai agents just do it 💫" — Shank </i></h4>
     </p>
 </div>
 
-
-<!--
-**ahlem-phantom/ahlem-phantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## 🛠 Tech Stack
-- 💻  C | C++ | C# | Java | Python
-  
-- 🌐  HTML | CSS | JavaScript | Bootstrap | jQuery | PHP
-  
-- 🖥️  React | Flask | AngularJS | SpringBoot | Laravel | Symfony | NodeJS | .NET | Django
-  
-- 🛢   MySQL | MongoDB | PostgreSQL | Oracle
-  
-- 🔧  Visual Studio Code | Eclipse | Git | Jupyther Notebook | Intellij IDEA | PyCharm 
-  
-- 🖥  Canva | Figma | Balsamiq | NextAPP
-
-
-## 🚀 Languages and Tools ...
-
-
-
-
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom"/>
-  
-  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9"/> 
--->
-
   ## 🤝‍ About Me 
-- 🎓 Alumnus of Computer Science Engineering from <b>`ESPRIT Higher School of Engineering`</b>  
-- 🌱 Currently solving <b>`LeetCode challenges`</b> to improve my <b>`data structures`</b> and <b>`algorithms`</b> skills.
-- 💜 Looking forward to exploring the complexities of <b>`reinforcement learning`</b> and <b>`MLOps`</b> as part of my journey in advanced AI.
-- 🔍 Recently developed an <b>`AI-powered invoice recognition system`</b> that automates data processing and extraction from invoices with diverse layouts.
-- 🎮 Coding by day 🌞, gaming and reading by night 🌙.
-- 😎 Visit my portfolio site: **[ahlem-laajili-portfolio](https://ahlem-laajili.vercel.app)**
+- 🎓 Computer Science Engineering from <b>`Government Engineering College (VTU)`</b>  
+- 🌱 Currently Developing <b>`AI agents`</b> to improve <b>`Automate Tasks`</b> and <b>`Creative`</b> skills.
+- 💜 Looking forward to exploring the complexities of <b>`Real life`</b> as part of my journey in advanced AI.
+- 🔍 Recently developed an <b>`Decentralized carbon credits trading platform`</b> that helps reduce carbon emission for MNCs and avoid paying less carbon tax to GOVT.
+- 🎮 Coding by day 🌞, gaming and Exploring by night 🌙.
+- 😎 Visit my portfolio site: **[shank.dev]()**
 
   
 
@@ -87,14 +49,14 @@ Here are some ideas to get you started:
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
-    </tr>
+<!--       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
+    </tr> -->
     <tr> 
       <td align="center" width=110>Python</td>
       <td align="center" width=110>Java</td>
       <td align="center" width=110>JavaScript</td>
       <td align="center" width=110>Typescript</td>
-      <td align="center" width=110>C++</td>
+<!--       <td align="center" width=110></td> -->
     </tr>
   </table>
   <table>
@@ -108,26 +70,26 @@ Here are some ideas to get you started:
       <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> </td>
-      <tr align="center"> 
+<!--       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> </td>
+      <tr align="center">  -->
         <td align="center" width=110>Pandas</td>
         <td align="center" width=110>OpenCV</td>
         <td align="center" width=110>Scikit-learn</td>
         <td align="center" width=110>TensorFlow</td>
-        <td align="center" width=110>PyTorch</td>
-      </tr>
+<!--         <td align="center" width=110>PyTorch</td>
+      </tr> -->
     </tr>
     <tr>
       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"/> </td>
       <td align="center" width=110> <img height="60" src="https://upload.wikimedia.org/wikipedia/fr/4/45/Hugging_Face_logo.svg"/> </td>
-      <td align="center" width=110> <img src="https://camo.githubusercontent.com/f05dd8f2dbcf21eac989f7a7c2cc6ebb4bbe3607e38a41d5e417c65378399a49/68747470733a2f2f67726164696f2e6170702f6173736574732f67726164696f2e737667" alt="icon" width="85" height="80"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/> </td>
+<!--  <td align="center" width=110> <img src="https://camo.githubusercontent.com/f05dd8f2dbcf21eac989f7a7c2cc6ebb4bbe3607e38a41d5e417c65378399a49/68747470733a2f2f67726164696f2e6170702f6173736574732f67726164696f2e737667" alt="icon" width="85" height="80"/> </td> -->
+      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/> </td> -->
       <tr align="center"> 
         <td align="center" width=110>NumPy</td>
         <td align="center" width=110>Matplotlib</td>
         <td align="center" width=110>HuggingFace</td>
-        <td align="center" width=110>Gradio</td>
+<!--         <td align="center" width=110>Gradio</td> -->
         <td align="center" width=110>Jupyter</td>
       </tr>
     </tr>
@@ -147,23 +109,23 @@ Here are some ideas to get you started:
       <tr align="center"> 
         <td align="center" width=110>React</td>
         <td align="center" width=110>Node</td>
-        <td align="center" width=110>Spring</td>
-        <td align="center" width=110>Bootstrap</td>
+<!--         <td align="center" width=110>Spring</td>
+        <td align="center" width=110>Bootstrap</td> -->
         <td align="center" width=110>JQuery</td>
       </tr>
     </tr>
     <tr>
       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/> </td>
+<!--       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"/> </td>
       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons//symfony/symfony-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> </td>
-      <tr align="center"> 
+      <tr align="center">  -->
         <td align="center" width=110>Flask</td>
-        <td align="center" width=110>Angular</td>
+<!--         <td align="center" width=110>Angular</td>
         <td align="center" width=110>Laravel</td>
         <td align="center" width=110>Symfony</td>
-        <td align="center" width=110>.Net</td>
+        <td align="center" width=110>.Net</td> -->
       </tr>
     </tr>
   </table>  
@@ -174,19 +136,19 @@ Here are some ideas to get you started:
     </tr>
     </thead>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain-wordmark.svg"/> </td>
+<!--       <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg"/> </td> -->
+      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain-wordmark.svg"/> </td> 
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/docker-icon.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/> </td>
-      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg"/> </td>
-    </tr>
+<!--       <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg"/> </td> -->
+    </tr> 
     <tr> 
-      <td align="center" width=110>Prometheus</td>
-      <td align="center" width=110>Grafana</td>
+<!--  td align="center" width=110>Prometheus</td> -->
+      <td align="center" width=110>Grafana</td>  
       <td align="center" width=110>Docker</td>
       <td align="center" width=110>Jenkins</td>
-      <td align="center" width=110>SonarQube</td>
-    </tr>
+<!--       <td align="center" width=110>SonarQube</td>
+    </tr> -->
   </table>
   <table>
     <thead>
@@ -196,16 +158,16 @@ Here are some ideas to get you started:
     </thead>
     <tr>
       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
+<!--       <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" alt="icon" width="65" height="65"/> </td> -->
       <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="icon" width="65" height="65"/> </td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
+<!--       <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="icon" width="65" height="65"/> </td> -->
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td> 
     <tr> 
       <td align="center" width=110>Debian</td>
-      <td align="center" width=110>Centos</td>
-      <td align="center" width=110>Ubuntu</td>
-      <td align="center" width=110>Script Shell</td>
-      <td align="center" width=110>Windows</td>
+<!--       <td align="center" width=110>Centos</td> -->
+      <td align="center" width=110>Ubuntu</td> 
+<!--       <td align="center" width=110>Script Shell</td> -->
+      <td align="center" width=110>Windows</td> 
     </tr>
   </table>
 </div>
@@ -234,16 +196,10 @@ Here are some ideas to get you started:
   <div align="center">
     <img width="360" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
 <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
-  <a href="https://github.com/ahlem-phantom">  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
+  <a href="https://github.com/Shank-devBytes001">  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shank-devBytes001&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
   </a>
-                <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahlem-phantom&theme=react"/>
+                <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shank-devBytes001&theme=react"/>
 
 </div>
-
-      
-## 🏆 My GitHub Profile Trophies
-<a target="_blank" href="https://github.com/ahlem-phantom?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
-
-
-### Support me ❤️ by [starring](https://github.com/ahlem-phantom?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
+---
