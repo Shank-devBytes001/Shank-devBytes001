@@ -97,11 +97,16 @@
 </div>
 
 ## 📈 GitHub Analytics
+
 <div align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
-  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
-  <a href="https://github.com/Shank-devBytes001">  
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shank-devBytes001&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
-  </a>
+  <!-- 🧠 Your Stats -->
+  <img width="360" src="https://github-readme-stats.vercel.app/api?username=Shank-devBytes001&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
+  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=Shank-devBytes001&theme=react&layout=compact" />
+  
+  <!-- 🔍 Top Languages -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shank-devBytes001&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
+  
+  <!-- 📊 Language Summary -->
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shank-devBytes001&theme=react"/>
 </div>
+
