@@ -7,8 +7,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=Shank-devBytes001&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/Shank-devBytes001.svg?style=for-the-badge&logo=appveyor">
-  </div>
+<!--     <img src="https://img.shields.io/github/followers/Shank-devBytes001.svg?style=for-the-badge&logo=appveyor"> -->
+  </div> 
 <h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | cloud | Devops | UI/UX </h3>
 </h1>
 
