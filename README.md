@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=Shank-devBytes001&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/Shank-devBytes001.svg?style=for-the-badge&logo=appveyor">
   </div>
-<h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | git | Devops | Explorer </h3>
+<h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | cloud | Devops | UI/UX </h3>
 </h1>
 
 <div align="center">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
     <img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
     <img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
-    <img src="https://img.shields.io/badge/Language-English%2C%20FHindi-blue" />
+    <img src="https://img.shields.io/badge/Language-English%2C%20Hindi-blueKannada%2C%20" />
     <h4><i> "Can build a new startup in just 72 hrs using AI agents just do it 💫" — Shank </i></h4>
   </p>
 </div>
@@ -83,7 +83,7 @@
     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/></td>
     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/></td>
     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
-    <td align="center" width=110><img height=60 src="https://www.svgrepo.com/show/354114/framer.svg"/></td>
+    <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg"/></td>
   </tr>
   <tr>
     <td align="center">React</td>
