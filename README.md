@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
     <img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
     <img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
-    <img src="https://img.shields.io/badge/Language-English%2C%20Hindi-blueKannada%2C%20" />
+    <img src="https://img.shields.io/badge/Language-English%2C%20Kannada, Hindi-blue" />
     <h4><i> "Can build a new startup in just 72 hrs using AI agents just do it 💫" — Shank </i></h4>
   </p>
 </div>
