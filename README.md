@@ -28,7 +28,7 @@
 - 💜 Looking forward to exploring the complexities of <b>`Real life`</b> as part of my journey in advanced AI.
 - 🔍 Recently developed an <b>`Decentralized carbon credits trading platform`</b> that helps reduce carbon emission for MNCs and avoid paying less carbon tax to GOVT.
 - 🎮 Coding by day 🌞, gaming and Exploring by night 🌙.
-- 😎 Visit my portfolio site: **[shank.dev]()**
+- 😎 Visit my portfolio site: **[shank.dev](https://shank-dev.vercel.app/)**
 
 ## ⚙️ Skills and Tools
 
