@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <div id="badges">
-    <a href=""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/>
+    <a href="https://shank-dev.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/>
     <a href="https://www.linkedin.com/in/shashank-raj-3510602b7/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
